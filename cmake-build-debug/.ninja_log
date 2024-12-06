@@ -1,0 +1,9 @@
+# ninja log v6
+35	849	7552167590812607	CMakeFiles/Project_Shop_cpp.dir/Seller/Seller.cpp.obj	af5509772481843d
+23	867	7552167590689494	CMakeFiles/Project_Shop_cpp.dir/Person/Person.cpp.obj	b4a181bdd3924abf
+29	869	7552167590752042	CMakeFiles/Project_Shop_cpp.dir/Product/Product.cpp.obj	d65ecd5e45077530
+17	1096	7552167590630983	CMakeFiles/Project_Shop_cpp.dir/Manager/Manager.cpp.obj	bd43aa334fb610fa
+11	2207	7552167590571894	CMakeFiles/Project_Shop_cpp.dir/Customer/Customer.cpp.obj	f73a8ed58cb285b5
+3	2504	7552167590492033	CMakeFiles/Project_Shop_cpp.dir/main.cpp.obj	8bb47b8086d0f39a
+42	2962	7552167590875994	CMakeFiles/Project_Shop_cpp.dir/Store/Store.cpp.obj	210177258a852c8e
+2963	3163	7552167620091464	Project_Shop_cpp.exe	dec3ba5bf66cbe4c

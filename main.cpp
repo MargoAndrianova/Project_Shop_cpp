@@ -1,3 +1,6 @@
+//Андріанова Маргарита Юріївна
+//Комп'ютерна математика 2
+
 #include <iostream>
 #include "D:\Project_Shop_cpp\Product\Product.h"
 #include "D:\Project_Shop_cpp\Seller\Seller.h"

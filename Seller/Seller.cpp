@@ -1,3 +1,6 @@
+//Андріанова Маргарита Юріївна
+//Комп'ютерна математика 2
+
 #include "Seller.h"
 
 Seller::Seller(const std::string& name, double initialSalary)

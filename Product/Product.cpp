@@ -1,3 +1,6 @@
+//Андріанова Маргарита Юріївна
+//Комп'ютерна математика 2
+
 #include "Product.h"
 
 Product::Product(const std::string& name, double price, int quantity, double cost)

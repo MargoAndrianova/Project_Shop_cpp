@@ -1,3 +1,6 @@
+//Андріанова Маргарита Юріївна
+//Комп'ютерна математика 2
+
 #include "Manager.h"
 
 Manager::Manager(const std::string& name) : Person(name) {}

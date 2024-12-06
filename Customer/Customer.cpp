@@ -1,3 +1,6 @@
+//Андріанова Маргарита Юріївна
+//Комп'ютерна математика 2
+
 #include "Customer.h"
 
 Customer::Customer(const std::string& name, bool regular, double initialDiscount)

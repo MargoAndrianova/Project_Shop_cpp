@@ -1,3 +1,6 @@
+//Андріанова Маргарита Юріївна
+//Комп'ютерна математика 2
+
 #include "Store.h"
 #include <fstream>
 #include <iostream>
